@@ -32,8 +32,17 @@ print ("last"n=[-1])'''
 '''n=[1,2,3]
 n.append(4)
 print(n)'''
-n=[1,2,3,4,5,6 ,7,8,9,10,11,12,13,14,15]
+'''n=[1,2,3,4,5,6 ,7,8,9,10,11,12,13,14,15]
 for n in n:
     if n %2==1:#odd number
 
-     print(n)
+     print(n)'''
+
+#dictonary
+student={"name","kundan","marks"}
+print(student)
+
+
+#dict..... loop
+if"marks" in Student:
+    print("marks exist")
