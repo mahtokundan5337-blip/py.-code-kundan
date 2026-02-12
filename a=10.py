@@ -65,5 +65,23 @@ print(t)
 l=list(t)
 print(l)'''
 
-t=(1,2,3,2,2)
-print(t.count(2))
+'''t=(1,2,3,2,2)
+print(t.count(2))'''
+
+"""for i in range(1,11):
+    print(i)"""
+
+'''for i in range (1,11):
+    if i % 2==1:
+        print(i)'''
+'''total = 0
+for i in range (1,11):
+    total+=i
+print("sum=",total)'''
+
+'''n=5
+for i in range(1,11):
+    print(n,"x",i,"=",n*i)'''
+
+for i in range(15,0,-1):
+    print(i)
