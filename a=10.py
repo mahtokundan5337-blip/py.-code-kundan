@@ -39,10 +39,31 @@ for n in n:
      print(n)'''
 
 #dictonary
-student={"name","kundan","marks"}
+'''student={"name","kundan","marks"}
 print(student)
 
 
 #dict..... loop
 if"marks" in Student:
-    print("marks exist")
+    print("marks exist")'''
+
+
+#set
+'''S={1,2,3,4}
+print(S)
+S.add(5)
+print(S)
+S.remove(2)
+print(S)'''
+''''#a={1,2,3,}
+b={3,4,5,}
+print(a|b)#'''
+#tuple
+'''t=(10,20,30)
+print(t)
+
+l=list(t)
+print(l)'''
+
+t=(1,2,3,2,2)
+print(t.count(2))
